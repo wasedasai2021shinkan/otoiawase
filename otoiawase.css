@@ -38,6 +38,7 @@ body {
   color: #ffffff;
   border-radius: 8px;
   padding: 24px 40px;
+  text-decoration: none;
 }
 .faq-button:hover {
   background: #99c5cc;
